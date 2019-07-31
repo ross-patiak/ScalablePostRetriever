@@ -1,2 +1,3 @@
-Post-REST/__pycache__/
-Post-REST/.vscode/
+/__pycache__
+/.vscode
+.DS_Store
