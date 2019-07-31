@@ -1,6 +1,6 @@
 # Description:
 
-**posts-api:** A complementary API that supposed to represent any generic API that retrieve *(1)* all posts in a database, or *(2)* all posts that contains at most one tag.
+**posts-api:** A placeholder API that supposed to represent any generic API that retrieve *(1)* all posts in a database, or *(2)* all posts that contains at most one tag. The placeholder database I've created is immutable and is only 1000 posts long.
 
   
 
